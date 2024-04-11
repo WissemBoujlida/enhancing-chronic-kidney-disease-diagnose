@@ -1,0 +1,8 @@
+# pyenv
+.python-version
+
+# pycache
+**/__pycache__
+
+# Environments
+enhancing-chronic-kidney-disease-diagnose-venv/
